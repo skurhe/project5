@@ -1,3 +1,7 @@
 test 1 added by sid
+<<<<<<< HEAD
 
 this msg added by sid
+=======
+ hi i am shripad kondawar
+>>>>>>> 357953b18b7b182b408d9ac8c47380f96282cfb2
