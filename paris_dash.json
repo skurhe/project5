@@ -1,0 +1,30 @@
+{
+    "awsBatchUUID": "vg100-8d96-445e-84a4-18da6b420da5",
+    "parserName": "TSOParis",
+    "profileUUID": "9ea87d-5e52-e02-762e39051dee",
+    "profileName": "EuronextNewsExchange_Paris",
+    "sourceId": "109",
+    "sourceName": "Euronext Paris EM",
+    "downloadedDocuments": [
+        {
+            "parentUrl": "https://live.euronext.com/node/12197298",
+            "sourceUrl": "",
+            "s3Path": "s3://dap-crawler-stg-em-downloaded-files/9ea87dc0-5e52-432e-9e02-762e39051dee/c46ce751-8d96-445e-84a4-18da6b420da5/VIRTUALWARE/ac5d6bdd-fdbe-44b2-9a07-243f394e4f3b.pdf",
+            "merged": "MERGE_NOT_NEEDED",
+            "format": "PDF",
+            "creationDate": "2023-10-30 07:46:35",
+            "attributes": {
+                "documentDate": "2023-10-03",
+                "symbol": "MLVIR",
+                "companyName": "VIRTUALWARE",
+                "topic": "-",
+                "language": "",
+                "category": "",
+                "title": "Euronext-listed Virtualware (MLVIR.PA) inks Multi-Year Agreement with Leading Global Energy Company",
+                "publishDateAndTime": "03 Oct 2023 07:00 CEST",
+                "isin": "ES0105704003"
+            }
+        }
+    ],
+    "errorDocuments": []
+}
